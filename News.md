@@ -1,3 +1,14 @@
+Title: Details of (++)plussers displayed.
+------------------------------
+Date: 2014-05-12T18:40:17
+
+To get a better insight of which Pause users have ++ed a particular distribution, a list of their gravatar images is displayed.
+
+Also, the display of the count of non-Pause plussers makes it easier to know how many users have liked the module.
+
+This gives a visual information of the people who recommend the module.
+
+
 Title: Dependency Graphs are Here
 ------------------------------
 Date: 2014-05-13T20:50:10
