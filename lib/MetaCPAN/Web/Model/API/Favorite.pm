@@ -141,7 +141,7 @@ sub find_plussers {
         {
             plusser_authors => \@plusser_details,
             plusser_others  => $total_nonauthors,
-	    plusser_data    => $distribution
+            plusser_data    => $distribution
         }
     );
 
